@@ -1,0 +1,10 @@
+8659490ee02de0e5ef5714ca9ba6a7f7 *DESCRIPTION
+505e481c898ba1f82341526c4ef26c55 *NAMESPACE
+cb6efd7b15b7e3ec04dbdc4e4ce3b219 *R/isaacWrapper.R
+9db504726ab224816e7f409bf5c0abb2 *man/isaacInt.Rd
+3742df5e9caf0844734e12bad419284a *man/isaacUnif.Rd
+d82e24a7d9c8faa5a502ae2641bef250 *man/risaac-package.Rd
+6bd5a7a0b7258d940235b7b622455ba6 *src/rand.c
+d2f0adc9b552f2e6cdb1a235c79af6af *src/rand.h
+dd8fdb7feec93796ca6d1893bda79609 *src/standard.h
+a40240a318529738b0993fc1ec9bd4e1 *tests/risaac_tests.R

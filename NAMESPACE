@@ -1,0 +1,3 @@
+useDynLib(risaac)
+
+export(isaacInt, isaacUnif)
